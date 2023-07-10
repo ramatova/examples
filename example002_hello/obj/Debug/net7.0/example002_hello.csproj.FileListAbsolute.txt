@@ -1,0 +1,15 @@
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/bin/Debug/net7.0/example002_hello
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/bin/Debug/net7.0/example002_hello.deps.json
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/bin/Debug/net7.0/example002_hello.runtimeconfig.json
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/bin/Debug/net7.0/example002_hello.dll
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/bin/Debug/net7.0/example002_hello.pdb
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/example002_hello.csproj.AssemblyReference.cache
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/example002_hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/example002_hello.AssemblyInfoInputs.cache
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/example002_hello.AssemblyInfo.cs
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/example002_hello.csproj.CoreCompileInputs.cache
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/example002_hello.dll
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/refint/example002_hello.dll
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/example002_hello.pdb
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/example002_hello.genruntimeconfig.cache
+/Users/macbook_pro/Desktop/aaaa/examples/example002_hello/obj/Debug/net7.0/ref/example002_hello.dll
