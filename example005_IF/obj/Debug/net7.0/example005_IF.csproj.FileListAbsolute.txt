@@ -1,0 +1,15 @@
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/bin/Debug/net7.0/example005_IF
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/bin/Debug/net7.0/example005_IF.deps.json
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/bin/Debug/net7.0/example005_IF.runtimeconfig.json
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/bin/Debug/net7.0/example005_IF.dll
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/bin/Debug/net7.0/example005_IF.pdb
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/example005_IF.csproj.AssemblyReference.cache
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/example005_IF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/example005_IF.AssemblyInfoInputs.cache
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/example005_IF.AssemblyInfo.cs
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/example005_IF.csproj.CoreCompileInputs.cache
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/example005_IF.dll
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/refint/example005_IF.dll
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/example005_IF.pdb
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/example005_IF.genruntimeconfig.cache
+/Users/macbook_pro/Desktop/aaaa/examples/example005_IF/obj/Debug/net7.0/ref/example005_IF.dll
